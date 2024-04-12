@@ -34,3 +34,4 @@ sudo chmod +x /MOSoMOS64/MOSoMOS64.sh
 echo add it to the usr folder
 sudo ln -s /MOSoMOS64/mosomos64.sh /usr/local/bin/mos64
 sudo ln -s /MOSoMOS/mosomos64.sh /usr/local/bin/MOS64
+echo download macOS 10.14 libraries.
